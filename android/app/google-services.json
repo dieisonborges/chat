@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "712723469251",
+    "firebase_url": "https://chat-d2394.firebaseio.com",
+    "project_id": "chat-d2394",
+    "storage_bucket": "chat-d2394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712723469251:android:5d0858d93f9645af18a376",
+        "android_client_info": {
+          "package_name": "com.dieison.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712723469251-1nffkonpifjjimgdrpeiucb47gijlanb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dieison.chat_app",
+            "certificate_hash": "e0e56323c0cf7a980b94fdac9f461e2874fc5efc"
+          }
+        },
+        {
+          "client_id": "712723469251-brv8selg5iqh7r3rqtcjdh1kqsrik2gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsd0Xl3Z2qunbyKr-Yv5YqCVVu61T0RcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712723469251-brv8selg5iqh7r3rqtcjdh1kqsrik2gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
